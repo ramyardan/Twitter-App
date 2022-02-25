@@ -1,4 +1,4 @@
-**Twitter App* is a basic twitter app to read your tweets.
+**Twitter App** is a basic twitter app to read your tweets.
 
 # Twitter - Part II
 
