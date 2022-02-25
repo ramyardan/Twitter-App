@@ -1,5 +1,3 @@
-@ -2,6 +2,34 @@
-
 **Twitter App* is a basic twitter app to read your tweets.
 
 # Twitter - Part II
@@ -26,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/psUmoZb' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/LHVfmrp3HfB38u2RyL/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 # Twitter - Part I
