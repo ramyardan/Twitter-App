@@ -1,10 +1,10 @@
 # Project 3 - *Twitter App*
 
-**Twitter App* is a basic twitter app to read your tweets.
-
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+**Twitter App** is a basic twitter app to read your tweets.
 
 # Twitter - Part II
+
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 Time spent: **6** hours spent in total
 
