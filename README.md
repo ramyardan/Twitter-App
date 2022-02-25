@@ -1,12 +1,8 @@
-# Project 3 - *Twitter App*
-
-**Twitter App** is a basic twitter app to read your tweets.
-
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
-Time spent: **6** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -26,11 +22,15 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/LHVfmrp3HfB38u2RyL/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="https://raw.githubusercontent.com/sundries-hub/LifeReviewFile/master/uPic/Kapture%202021-04-26%20at%2018.59.55.gif" alt="Kapture 2021-04-26 at 18.59.55" style="zoom: 100%;" />
+
+
 
 # Twitter - Part I
 
-Time spent: **6** hours spent in total
+This is a basic twitter app to read your tweets.
+
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -51,8 +51,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/Pdvjitb8DhhZ2Lt7D9/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://media.giphy.com/media/nFkpHSnEjkjyPCOKtb/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+(The GIF has ~15MB and may take some time to load)
 
-
+<img src='https://raw.githubusercontent.com/sundries-hub/LifeReviewFile/master/uPic/Kapture 2021-04-19 at 19.59.40.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' style="zoom:150%;" />
 
