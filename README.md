@@ -1,10 +1,6 @@
-**Twitter App** is a basic twitter app to read your tweets.
+**Twitter App** is a clone Twitter app to view, compose, favorite, and retweet tweets.
 
 # Twitter - Part II
-
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
-
-Time spent: **6** hours spent in total
 
 ## User Stories
 
@@ -22,10 +18,6 @@ Here's a walkthrough of implemented user stories:
 
 
 # Twitter - Part I
-
-This is a basic twitter app to read your tweets.
-
-Time spent: **6** hours spent in total
 
 ## User Stories
 
