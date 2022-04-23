@@ -4,7 +4,7 @@
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionalities are completed:
 
 - [x] User can compose a tweet. 
 - [x] User can favorite a tweet. 
@@ -21,16 +21,13 @@ Here's a walkthrough of implemented user stories:
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionalities are completed:
 
 - [x] User sees app icon in home screen and styled launch screen. 
 - [x] User can log in.
 - [x] User can log out.
 - [x] User stays logged in across restarts.
 - [x] User can view tweets with the user profile picture, username, and tweet text.
-
-The following **bonus** features are implemented:
-
 - [x] User can pull to refresh.
 - [x] User can load past tweets infinitely.
 
